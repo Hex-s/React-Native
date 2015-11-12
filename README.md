@@ -22,7 +22,39 @@
     安装IntelHAXM...dmg
     $android avd 打开android模拟器
     
-    3.初始化项目
+  3.初始化项目
+    $react-native init projectName 在当前目录中新建项目
+    $atom projectName
+    
+  4.运行项目
+  Android
+    打开模拟器  $android avd ;  $emulator @avdName
+    react-native run-android
+    F2:开发快捷菜单
+  IOS
+    项目文件下 ios/projectName.xcodeproj
+    
+  5.
+    
+    
+    
+    
+    
+    
+Command + K 
+清屏
+Command + T 
+
+
+新建标签
+Command +W  关闭当前标签页
+Command + S  保存终端输出
+Command + D  垂直分隔当前标签页
+Command + Shift + D 
+水平分隔当前标签页
+Command + shift +  {或}
+向左/向右切换标签
+    
     
     
     
